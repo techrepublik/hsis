@@ -1,0 +1,10 @@
+C:\Users\Tj101-thonix\Documents\GitHub\hsis\hsdal\hsdal\bin\Debug\hsdal.dll.config
+C:\Users\Tj101-thonix\Documents\GitHub\hsis\hsdal\hsdal\bin\Debug\hsdal.dll
+C:\Users\Tj101-thonix\Documents\GitHub\hsis\hsdal\hsdal\bin\Debug\hsdal.pdb
+C:\Users\Tj101-thonix\Documents\GitHub\hsis\hsdal\hsdal\bin\Debug\EntityFramework.dll
+C:\Users\Tj101-thonix\Documents\GitHub\hsis\hsdal\hsdal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tj101-thonix\Documents\GitHub\hsis\hsdal\hsdal\bin\Debug\EntityFramework.xml
+C:\Users\Tj101-thonix\Documents\GitHub\hsis\hsdal\hsdal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tj101-thonix\Documents\GitHub\hsis\hsdal\hsdal\obj\Debug\hsdal.csprojResolveAssemblyReference.cache
+C:\Users\Tj101-thonix\Documents\GitHub\hsis\hsdal\hsdal\obj\Debug\hsdal.dll
+C:\Users\Tj101-thonix\Documents\GitHub\hsis\hsdal\hsdal\obj\Debug\hsdal.pdb
